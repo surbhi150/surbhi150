@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surbhi150
 - 👀 I’m interested in app development 
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning Flutter
 
 - 📫 How to reach me surbhi150404@gmail.com
 
